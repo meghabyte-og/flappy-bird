@@ -1,2 +1,3 @@
 # flappy-bird
-Flappy bird game using Unity (with C#)
+A Flappy bird game using Unity (with C#)
+The game can be played by running FlappyBird.exe in the gameplay folder.
