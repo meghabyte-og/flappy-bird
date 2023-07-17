@@ -1,5 +1,6 @@
 # flappy-bird
 <img width="400" alt="image" src="https://github.com/meghabyte-og/flappy-bird/assets/135510418/e7fbed12-098e-48fa-889b-c1db5c253ade">
+
 This is a PC version of the popular game Flappy Bird, developed using Unity. Instead of tapping the screen, the player controls the bird's flight by pressing the space bar on the keyboard. The objective of the game is to navigate the bird through a series of gaps between pipes without colliding with them.
 
 # Features
